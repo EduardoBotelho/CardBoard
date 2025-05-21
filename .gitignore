@@ -1,0 +1,6 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/.idea
+/liquibase.log
+/src/main/resources/db.changelog
